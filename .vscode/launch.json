@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "Java.test",
+            "projectName": "ProgramasJava_c63db2dc"
+        },
+        {
+            "type": "java",
+            "name": "MYSQL",
+            "request": "launch",
+            "mainClass": "MYSQL",
+            "projectName": "ProgramasJava_c63db2dc"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "ProgramasJava_c63db2dc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ChatClient",
+            "request": "launch",
+            "mainClass": "ChatClient",
+            "projectName": "ProgramasJava_c63db2dc"
+        },
+        {
+            "type": "java",
+            "name": "Pessoas_SQL",
+            "request": "launch",
+            "mainClass": "Pessoas_SQL",
+            "projectName": "ProgramasJava_c63db2dc"
+        }
+    ]
+}
