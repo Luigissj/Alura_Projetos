@@ -1,1 +1,1 @@
-A [link](http://example.com).
+A [Person](http://example.com).
