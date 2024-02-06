@@ -1,1 +1,1 @@
-a [Markdown] (https://wordpress.com/support/markdown-quick-reference/)
+A [link](http://example.com "Title").
